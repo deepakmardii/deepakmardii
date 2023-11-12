@@ -32,11 +32,11 @@ Let's create something amazing together!
 <!-- GITHUB_STATS:START -->
 <table align="center">
   <tr>
-    <td>
+<!--     <td>
       <a href="https://github.com/deepakmardii">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakmardii&show_icons=true&include_all_commits=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe" alt="Jeremy's github stats" />
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://github.com/deepakmardii">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmardii&layout=compact&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe" />
