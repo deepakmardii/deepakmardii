@@ -7,8 +7,8 @@ I love building practical, scalable web applications with **TypeScript, React, N
 
 ## 🚀 Featured Projects
 
-- [**feedbacksense**](https://github.com/deepakmardii/feedbacksense) — Transforms raw customer feedback into actionable business insights **Next.js and Supabase**
 - [**Habitly**](https://github.com/deepakmardii/habitly) — A habit-tracking app with reminders and analytics (**Next.js and Postgresql**)
+- [**feedbacksense**](https://github.com/deepakmardii/feedbacksense) — Transforms raw customer feedback into actionable business insights **Next.js and Supabase**
 - [**ChatWaves**](https://github.com/deepakmardii/chatwaves) — Real-time chat application using **WebSockets**
 - [**phantomwriter**](https://github.com/deepakmardii/phantomwriter) — AI-powered writing assistant leveraging **Next.js and Gemini AI**
 
