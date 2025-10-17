@@ -1,4 +1,4 @@
-<h2>Welcome to my profile!</h2>
+<h2>Welcome to Deepak's Profile!</h2>
 Meet Deepak, an ambitious engineer with a passion for technology and innovation. Deepak is a full-time software engineer and enjoys stargazing and photography in his spare time. 
 
 Over the years, Deepak has honed his coding skills and is fluent in several programming languages. His preferred language is currently TypeScript, but he is also proficient in Python and C++.
